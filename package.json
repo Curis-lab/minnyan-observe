@@ -1,0 +1,16 @@
+{
+  "name": "minnyan-observe",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".":"./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "minnyanlin",
+  "license": "ISC",
+  "description": "A lightweight Node.js utility for measuring function execution time."
+}
